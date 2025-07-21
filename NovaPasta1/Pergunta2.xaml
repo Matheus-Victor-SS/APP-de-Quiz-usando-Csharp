@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.NovaPasta1.Pergunta2"
+             Title="Pergunta2"
+             BackgroundImageSource="telageral.png">
+
+    <VerticalStackLayout>
+        <Frame Style="{StaticResource framePergunta}">
+            <Label
+                Text="Qual foi a ARPANET?"
+                Style="{StaticResource lblPergunta}"
+                />
+        </Frame>
+        
+        <Frame Style="{StaticResource frameAlternativa}">
+            <StackLayout>
+                <RadioButton
+                    x:Name="radAlternativa1"
+                    Content="Primeiro Computador"
+                    GroupName="p2"
+                    Style="{StaticResource radAlternativa}"
+                    />
+                <RadioButton
+                    
+                    x:Name="radAlternativa2"
+                    Content="Primeira interface gráfica"
+                    GroupName="p1"
+                    Style="{StaticResource radAlternativa}"
+                    />
+                <RadioButton
+                     
+                    x:Name="radAlternativa3"
+                    Content="Antecessora da internet"
+                    GroupName="p2"
+                    Style="{StaticResource radAlternativa}"
+                    />
+                <RadioButton
+                      
+                    x:Name="radAlternativa4"
+                    Content="Primeira linguagem de programação"
+                    GroupName="p2"
+                    Style="{StaticResource radAlternativa}"
+                    />
+
+            </StackLayout>
+            </Frame>
+                <Button 
+                    x:Name="btnP2"
+                    Text="Finalizar"
+                    Style="{StaticResource btn}"
+                    Clicked="btnP2_Clicked_1"
+                    />
+    </VerticalStackLayout>
+</ContentPage>

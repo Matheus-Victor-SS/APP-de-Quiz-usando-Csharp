@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.NovaPasta1.Placar"
+             Title="Placar"
+             BackgroundImageSource="telaplacar.png">
+    <VerticalStackLayout>
+        <Button
+            x:Name="btnResultado"
+            Text="Resultado"
+            Margin="50,350,50,0"
+            Style="{StaticResource btn}"
+            Clicked="btnResultado_Clicked"
+            />
+
+
+        <Grid
+            ColumnDefinitions="*,*"
+            RowDefinitions="*,*"
+            Margin="50">
+
+            <Label
+                Grid.Column="0" Grid.Row="0"
+                Text="Acertos"
+                FontSize="29"
+                HorizontalTextAlignment="Center"
+                Style="{StaticResource lblPlacar}"
+                />
+            <Label
+                 x:Name="lblAcertos"
+                 Grid.Column="0" Grid.Row="1"
+                 Text="0"
+                 Style="{StaticResource lblPlacar}"
+                 /> 
+            <Label
+                x:Name="lblErros"
+                Grid.Column="1" Grid.Row="1"
+                Text="0"
+                Style="{StaticResource lblPlacar}"
+                />
+        </Grid>
+
+        <Button
+            x:Name="btnNovamente"
+            Text="Jogar Novamente"
+            Style="{StaticResource btn}"
+            Margin="40"
+            IsVisible="False"
+            Clicked="btnNovamente_Clicked_1"
+            />
+        
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\placar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\placar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\pergunta2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\pergunta2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\quiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:quiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\placar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\placar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\pergunta2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\pergunta2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\pergunta1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\pergunta1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\novapasta1\\pergunta1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:novapasta1\\pergunta1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\pontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:pontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|d:\\vs\\quiz\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D50568-CC4C-4072-AA24-99CF3DD5657E}|Quiz.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Placar.xaml",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Placar.xaml",
+              "RelativeDocumentMoniker": "NovaPasta1\\Placar.xaml",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Placar.xaml",
+              "RelativeToolTip": "NovaPasta1\\Placar.xaml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:34:51.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pergunta1.xaml.cs",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta1.xaml.cs",
+              "RelativeDocumentMoniker": "NovaPasta1\\Pergunta1.xaml.cs",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta1.xaml.cs",
+              "RelativeToolTip": "NovaPasta1\\Pergunta1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:55:03.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\VS\\Quiz\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\VS\\Quiz\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:42:47.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pergunta1.xaml",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta1.xaml",
+              "RelativeDocumentMoniker": "NovaPasta1\\Pergunta1.xaml",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta1.xaml",
+              "RelativeToolTip": "NovaPasta1\\Pergunta1.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T12:48:45.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\VS\\Quiz\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\VS\\Quiz\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T12:42:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Placar.xaml.cs",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Placar.xaml.cs",
+              "RelativeDocumentMoniker": "NovaPasta1\\Placar.xaml.cs",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Placar.xaml.cs",
+              "RelativeToolTip": "NovaPasta1\\Placar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pergunta2.xaml",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta2.xaml",
+              "RelativeDocumentMoniker": "NovaPasta1\\Pergunta2.xaml",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta2.xaml",
+              "RelativeToolTip": "NovaPasta1\\Pergunta2.xaml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:31:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\VS\\Quiz\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\VS\\Quiz\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T12:31:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pontuacao.cs",
+              "DocumentMoniker": "D:\\VS\\Quiz\\Pontuacao.cs",
+              "RelativeDocumentMoniker": "Pontuacao.cs",
+              "ToolTip": "D:\\VS\\Quiz\\Pontuacao.cs",
+              "RelativeToolTip": "Pontuacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:30:52.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz.csproj",
+              "DocumentMoniker": "D:\\VS\\Quiz\\Quiz.csproj",
+              "RelativeDocumentMoniker": "Quiz.csproj",
+              "ToolTip": "D:\\VS\\Quiz\\Quiz.csproj",
+              "RelativeToolTip": "Quiz.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T12:21:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pergunta2.xaml.cs",
+              "DocumentMoniker": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta2.xaml.cs",
+              "RelativeDocumentMoniker": "NovaPasta1\\Pergunta2.xaml.cs",
+              "ToolTip": "D:\\VS\\Quiz\\NovaPasta1\\Pergunta2.xaml.cs",
+              "RelativeToolTip": "NovaPasta1\\Pergunta2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:33:20.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
